@@ -1,0 +1,10 @@
+output:
+  bindings_type: dart_only
+  dart:
+    path: lib/dart_only.dart
+    structure: single_file
+
+source_path:
+  - 'java/'
+classes:
+  - 'Foo'
